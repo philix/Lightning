@@ -1,4 +1,4 @@
-int startX = (int)(Math.random()*301);
+int startX = (int)(Math.random()*501);
 int startY = 0;
 int endX = 150;
 int endY = 0;
